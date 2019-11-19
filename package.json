@@ -47,7 +47,7 @@
     "prop-types": "15.5.10",
     "rc-queue-anim": "1.2.2",
     "react": "16.0.0",
-    "react-dom": "16.0.0",
+    "react-dom": "16.0.1",
     "react-motion": "0.5.1",
     "recompose": "0.26.0",
     "stackblur-canvas": "1.4.1"
